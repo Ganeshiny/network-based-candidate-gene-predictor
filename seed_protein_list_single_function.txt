@@ -1,0 +1,6 @@
+#node   function
+CENPE   Kinesin motor, catalytic domain. ATPase.
+KIF11   Kinesin motor, catalytic domain. ATPase.
+KIF18B  Kinesin motor, catalytic domain. ATPase.
+KIF19   Kinesin motor, catalytic domain. ATPase.
+KIF23   Kinesin motor, catalytic domain. ATPase.
